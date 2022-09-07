@@ -18,4 +18,6 @@ MetaMask third party for wallet
 MetaMask helps to store the key and recover the password if needed
 
 TASK:
-1. Create a wallet on MetaMask
+✅1. Create a wallet on MetaMask
+✅2. Go to https://rinkebyfaucet.com/
+✅3. Send ETH to MetaMask account
