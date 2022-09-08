@@ -24,6 +24,11 @@ TASK:
 ✅ 4. Check "The Ethereum Blockchain Explorer" - https://etherscan.io
 ✅ 5. Look for the details of a transaction
 
+-LINKS:
+🔗 https://etherscan.io
+🔗 https://learnweb3.io
+
+
 🛠 -- HOW WE PROGRAM:
 Language: SOLIDITY
 
@@ -34,9 +39,8 @@ function isOwner() view private returns(bool) {
     return msg.sender == owner;
 }
 
--LINKS:
-🔗 https://etherscan.io
-🔗 https://learnweb3.io
+
+
 
 
 
