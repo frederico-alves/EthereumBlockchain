@@ -1,0 +1,36 @@
+⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+====13-09-2022=====
+
+Come and join the Blockchain Coding Café to spend time with other peers in the process of learning various on-chain programming. Everybody with an interest in Blockchain programming is welcome. Both students and non-students.
+
+It's possible to get guidance on both individual projects and learning materials.
+
+There is no strict agenda, besides blockchain programming with great people in cozy surroundings.
+
+We meet every Tuesday this autumn, and throughout the months we will go through CryptoZombies to learn Solidity-programming and the Freshman-track of LearnWeb3.io to get a general understanding of coding in web3.
+
+Admins:
+⏣ Hampus Iversen
+⏣ Christina Kaae
+⏣ Stefan Roy Friis Frederiksen
+⏣ Jonas Khattab
+
+
+Attendees:
+⏣ Stefan R 
+🙋‍♂️ Frederico Alves
+🙋‍♂️ Ali Yozgyur
+👨‍💻 Alexander
+👨‍💻 Peter Cliaman
+👨‍💻 Matej Basta
+👨‍💻 Emil Jensen
+👨‍💻 Lasse Overgaard
+👨‍💻 Chris itu
+👨‍💻 Patrick Aarup
+
+📣 Stefan R.
+-> Web3 journey and I plan to livecode a simple NFT
+-> and how to create your our Cryptocurrency (ERC20 Token)
+
+--------------------
+

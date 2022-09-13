@@ -1,8 +1,7 @@
 # Ethereum Blockchain Notes
 
 ====07-09-2022=====
-
-<b>Smart Contracts</b>
+<b>SMART CONTRACTS</b>
 
 This week we will have an introduction to Smart Contracts in a Practical Session by Asger Balle Pedersen, PhD fellow.
 
@@ -38,10 +37,6 @@ Solidity is used to develop smart contracts:
 function isOwner() view private returns(bool) {
     return msg.sender == owner;
 }
-
-
-
-
 
 
 
