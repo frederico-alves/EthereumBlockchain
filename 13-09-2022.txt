@@ -20,17 +20,26 @@ Attendees:
 ⏣ Stefan R 
 🙋‍♂️ Frederico Alves
 🙋‍♂️ Ali Yozgyur
-👨‍💻 Alexander
+👨 Alexander
 👨‍💻 Peter Cliaman
 👨‍💻 Matej Basta
 👨‍💻 Emil Jensen
-👨‍💻 Lasse Overgaard
+👨 Lasse Overgaard
 👨‍💻 Chris itu
-👨‍💻 Patrick Aarup
+👨 Patrick Aarup
 
 📣 Stefan R.
 -> Web3 journey and I plan to livecode a simple NFT
 -> and how to create your our Cryptocurrency (ERC20 Token)
 
 --------------------
+
+FRESHMAN 🚀
+https://learnweb3.io
+
+
+
+-> What is Blockchain?
+
+<b>A distributed database running on a peer to peer network of nodes</b>
 
