@@ -1,7 +1,7 @@
 🚀 FRESHMAN 🚀
 https://learnweb3.io
 
-=================
+1.=================
       LEVEL 1
 =================
 
@@ -34,8 +34,8 @@ Use Cases of Decentralized Network (Web 3):
 ✅ Decentralized Governance
 ✅ Verifiable ownership of assets
 
-=================
-2️⃣     LEVEL 2
+2.=================
+      LEVEL 2
 =================
 
 ❓ What is Ethereum?
@@ -55,8 +55,8 @@ Ethereum was originally proposed by Vitalik Buterin in 2014. He proposed the dev
 ❓ What are Smart Contracts?
 📝 Smart contracts are small computer programs that are replicated and processed on all the computers on the Ethereum network without a central coordinator. Smart Contracts allow you to program contracts that can be automatically enforced by computer code.
 
-=================
-8️⃣     LEVEL 8
+8.=================
+      LEVEL 8
 💡 Cryptocurrency Tutorial (ERC20)
 =================
 
@@ -79,8 +79,8 @@ Use Standard ERC20
 --> Deploy & Run transactions
 
 
-=================
-9️⃣     LEVEL 9
+9.=================
+      LEVEL 9
 💡 NFT Tutorial
 =================
 
