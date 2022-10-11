@@ -1,7 +1,7 @@
 🚀 FRESHMAN 🚀
 https://learnweb3.io
 
-1.=================
+1.✅=================
       LEVEL 1
 =================
 
@@ -34,7 +34,7 @@ Use Cases of Decentralized Network (Web 3):
 ✅ Decentralized Governance
 ✅ Verifiable ownership of assets
 
-2.=================
+2.✅=================
       LEVEL 2
 =================
 
@@ -55,10 +55,36 @@ Ethereum was originally proposed by Vitalik Buterin in 2014. He proposed the dev
 ❓ What are Smart Contracts?
 📝 Smart contracts are small computer programs that are replicated and processed on all the computers on the Ethereum network without a central coordinator. Smart Contracts allow you to program contracts that can be automatically enforced by computer code.
 
-8.=================
+3.✅=================
+      LEVEL 3
+=================
+✅ What does Web3 mean? 
+
+4.✅=================
+      LEVEL 4
+=================
+✅ What is ETH? 
+
+5.✅=================
+      LEVEL 5
+=================
+✅ Setting up a crypto wallet
+
+6.❌=================
+      LEVEL 6
+=================
+❌ Setting up the Remix IDE
+
+7.❌=================
+      LEVEL 7
+=================
+❌ Intro to Solidity
+
+8.❌=================
       LEVEL 8
 💡 Cryptocurrency Tutorial (ERC20)
 =================
+❌ Build your first dApp
 
 Remix IDE
 --> It's good practice to use a license identifier
@@ -79,10 +105,11 @@ Use Standard ERC20
 --> Deploy & Run transactions
 
 
-9.=================
+9.❌=================
       LEVEL 9
 💡 NFT Tutorial
 =================
+❌ Build your own cryptocurrency
 
 Deploy a NFT project on Ethereum:
 
@@ -117,3 +144,8 @@ ALCHEMY API
 npm install dotenv
 `
 
+
+10.❌=================
+      LEVEL 10
+=================
+❌ Build your own simple NFT
