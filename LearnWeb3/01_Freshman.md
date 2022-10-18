@@ -75,6 +75,10 @@ Ethereum was originally proposed by Vitalik Buterin in 2014. He proposed the dev
 =================
 ❌ Setting up the Remix IDE
 
+- Remix helps you write Solidity code directly in the browser, and has tools for testing, debugging, and deploying your smart contract to the blockchain.
+
+- https://remix.ethereum.org/
+
 7.❌=================
       LEVEL 7
 =================
